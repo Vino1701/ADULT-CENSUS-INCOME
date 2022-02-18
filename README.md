@@ -3,6 +3,7 @@ In this project, initially we preprocess the data and then develop an understand
 # AZURE SERVICES USED
 Azure machine learning studio is used to create, train and evaluate the machine learning model. In Azure machine learning portal, select or import a dataset for the model. After uploading the dataset as CSV file, then select the blocks for the model and then connect and visualize the blocks. The final output will be visualized in the evaluated model.
 # ADULT CENSUS INCOME MACHINE LEARNING MODEL
+![image](https://user-images.githubusercontent.com/99384208/154675368-1843c94e-7da9-4698-a172-c4e52c6f459b.png)
 # ADULT CENSUS INCOME DATASET
 ![image](https://user-images.githubusercontent.com/99384208/154671865-3221fedc-6024-4eb4-b4df-a309d1ae3804.png)
 # TRAINED MODEL
