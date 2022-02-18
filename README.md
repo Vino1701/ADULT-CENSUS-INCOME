@@ -1,4 +1,6 @@
 # ADULT-CENSUS-INCOME
+
+# DESCRIPTION
 In this project, initially we preprocess the data and then develop an understanding of different features of the data by performing exploratory analysis and creating visualizations. Further,after having sufficient knowledge about the attributes, performed a predictive task of classification to predict whether an individual makes over 50K a year or less,by using different Machine Learning Algorithms.
 # AZURE SERVICES USED
 Azure machine learning studio is used to create, train and evaluate the machine learning model. In Azure machine learning portal, select or import a dataset for the model. After uploading the dataset as CSV file, then select the blocks for the model and then connect and visualize the blocks. The final output will be visualized in the evaluated model.
